@@ -13,7 +13,3 @@ Tecnologias Utilizadas
     List
     Loops
     Reflection
-
-  Se incluye un video demostrativo en el que se ve como se usaron imagenes para representar a cada moneda.
-  
-    
